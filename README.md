@@ -24,12 +24,12 @@ I am **Undergraduate Computer Engineering Student** at [Kathmandu University](ht
   <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i>
 
   <p align="center">
-     <a href="https://www.facebook.com/bml05/" alt="Facebook"><img height='45' src="https://github.com/TimilsinaBimal/TimilsinaBimal/blob/master/facebook.png"></a>
-    <a href="https://twitter.com/TimilsinaBimal" alt="Twitter"><img height='45' src="https://github.com/TimilsinaBimal/TimilsinaBimal/blob/master/twitter.png"></a>
-    <a href="https://www.linkedin.com/in/timilsinabimal/" alt="Linkedin"><img height='45' src="https://github.com/TimilsinaBimal/TimilsinaBimal/blob/master/linkedin.png"></a>
-    <a href="https://www.instagram.com/__bimal_" alt="Instagram"><img height='45' src="https://github.com/TimilsinaBimal/TimilsinaBimal/blob/master/instagram.png"></a>
-    <a href="https://bimaltimilsina.com.np" alt="Website"><img height='45' src="https://github.com/TimilsinaBimal/TimilsinaBimal/blob/master/web.png"></a>
-    <a href="https://github.com/TimilsinaBimal" alt="GitHub"><img height='45' src="https://github.com/TimilsinaBimal/TimilsinaBimal/blob/master/github.png"></a>
+    <a target= "_blank" href="https://www.facebook.com/bml05/" alt="Facebook"><img height='45' src="https://github.com/TimilsinaBimal/TimilsinaBimal/blob/master/facebook.png"></a>
+    <a target= "_blank" href="https://twitter.com/Timilsina_bml05" alt="Twitter"><img height='45' src="https://github.com/TimilsinaBimal/TimilsinaBimal/blob/master/twitter.png"></a>
+    <a target= "_blank" href="https://www.linkedin.com/in/timilsinabimal/" alt="Linkedin"><img height='45' src="https://github.com/TimilsinaBimal/TimilsinaBimal/blob/master/linkedin.png"></a>
+    <a target= "_blank" href="https://www.instagram.com/__bimal_" alt="Instagram"><img height='45' src="https://github.com/TimilsinaBimal/TimilsinaBimal/blob/master/instagram.png"></a>
+    <a target= "_blank" href="https://bimaltimilsina.com.np" alt="Website"><img height='45' src="https://github.com/TimilsinaBimal/TimilsinaBimal/blob/master/web.png"></a>
+    <a target= "_blank" href="https://github.com/TimilsinaBimal" alt="GitHub"><img height='45' src="https://github.com/TimilsinaBimal/TimilsinaBimal/blob/master/github.png"></a>
   </p>
   
 </p>
