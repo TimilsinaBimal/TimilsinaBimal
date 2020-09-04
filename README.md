@@ -5,18 +5,10 @@ I am **Undergraduate Computer Engineering Student** at [Kathmandu University](ht
 - 🌱 Learning and Developing Machine Learning based projects in Python.
 - 🤔 Looking for help with Deep Learning.
 - 💬 Ask me about anything.
-<details>
-  <summary>⚡ Interesting Facts!</summary>
-  <br>
-  
-  - While Coding, Listening Music and developing useful code. ⭐️
-  
-  - Reading Novels 📚 and Watching Movies and Series 🎬 are the things I do while I am free.
-  
-  - Learning Mathemetics 📊📈 is always fun for me!
+
 
   ![My github stats](https://github-readme-stats.vercel.app/api?username=TimilsinaBimal&show_icons=true)
-</details>
+
 
 
 <hr>
