@@ -1,15 +1,10 @@
-### Hi there 👋
-I am **Undergraduate Computer Engineering Student** at [Kathmandu University](https://ku.edu.np). I love to learn about new technologies and make something out of it.
+### Hi, I am Bimal Timilsina. 👋
+I am **Undergraduate Computer Engineering Student** at [Kathmandu University](https://ku.edu.np). I love writing code. I believe in the power of programming to transform and improve the lives of people around the world.
 
 - 💻 Looking for Internship in Machine Learning.
-- 🌱 Learning and Developing Machine Learning based projects in Python.
-- 🤔 Looking for help with Deep Learning.
-- 💬 Ask me about anything.
+- 🌱 I’m currently learning Deep Learning.
 
-
-  ![My github stats](https://github-readme-stats.vercel.app/api?username=TimilsinaBimal&show_icons=true&theme=radical)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TimilsinaBimal&layout=compact&theme=radical)
-
+  ![My github stats](https://github-readme-stats.vercel.app/api?username=TimilsinaBimal&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TimilsinaBimal&layout=compact&theme=radical)
 
 
 <hr>
