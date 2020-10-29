@@ -4,7 +4,7 @@ I am **Undergraduate Computer Engineering Student** at [Kathmandu University](ht
 - 💻 Looking for Internship in Machine Learning.
 - 🌱 I’m currently learning Deep Learning.
 
-  ![My github stats](https://github-readme-stats.vercel.app/api?username=TimilsinaBimal&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TimilsinaBimal&layout=compact&theme=radical)
+  ![My github stats](https://github-readme-stats.vercel.app/api?username=TimilsinaBimal&show_icons=true)
 
 
 <hr>
