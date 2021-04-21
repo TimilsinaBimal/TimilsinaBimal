@@ -1,7 +1,7 @@
 ### Hi, I am Bimal Timilsina. 👋
 I am **Undergraduate Computer Engineering Student** at [Kathmandu University](https://ku.edu.np). I love writing code. I believe in the power of programming to transform and improve the lives of people around the world.
 
-  ![My github stats](https://github-readme-stats.vercel.app/api?username=TimilsinaBimal&show_icons=true)
+  ![My github stats](https://github-readme-stats.vercel.app/api?username=TimilsinaBimal&show_icons=true&theme=onedark)
 
 
 <hr>
