@@ -1,9 +1,11 @@
-### Hi, I am Bimal Timilsina. 👋
-I am **Undergraduate Computer Engineering Student** at [Kathmandu University](https://ku.edu.np). I love writing code. I believe in the power of programming to transform and improve the lives of people around the world.
+  <img src="https://github.com/TimilsinaBimal/TimilsinaBimal/blob/master/Intro.png">
 
-  ![My github stats](https://github-readme-stats.vercel.app/api?username=TimilsinaBimal&show_icons=true&theme=onedark)
+<!--   [![My github stats](https://github-readme-stats.vercel.app/api?username=TimilsinaBimal&show_icons=true&theme=onedark&hide_border=true&bg_color=22272E&icon_color=08FE8C)](https://github.com/anuraghazra/github-readme-stats) -->
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TimilsinaBimal&theme=dracula&hide_border=true&background=22272E&stroke=22272E)](https://git.io/streak-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimilsinaBimal&layout=compact&theme=onedark&hide_border=true&bg_color=22272E&icon_color=08FE8C)](https://github.com/anuraghazra/github-readme-stats)
 
 
+  
 <hr>
 <p align="center">
   <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i>
