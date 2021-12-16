@@ -1,8 +1,8 @@
 ## 👋 Hi, I am Bimal Timilsina.
 
 - 💻 I love writing code.
-- 🔭 I’m currently working on Computer Vision Projects
-- 🌱 I’m currently learning Deep Learning
+- 🔭 I’m currently working on Natural Language Processing Projects.
+- 🌱 I’m currently learning NLP and Deep Learning
 
 <!-- <img src="https://github.com/TimilsinaBimal/TimilsinaBimal/blob/master/Intro.png">
 
