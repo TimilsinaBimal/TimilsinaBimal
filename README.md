@@ -6,8 +6,25 @@
 class NLPEngineer:
     def __init__(self):
         self.name = "Bimal Timilsina"
-        self.role = "NLP Engineer"
+        self.pronouns = "he/him"
+        self.role = "Associate NLP Engineer"
         self.language_spoken = ["ne_NP", "en_US", "hi_IN"]
+        self.currentFocus: "Learning Speech Processing",
+        self.funFact: "There are two ways to write error-free programs; only the third one works 😁"
+    
+    def get_current_workplace(self):
+        return {
+            "company" : "EKbana Solutions Pvt. Ltd."
+            "position" : "Associate NLP Engineer"
+        }
+     
+    def get_skills(self):
+        return {
+            "languages" : ["Python", "JavaScript"],
+            "libraries and frameworks" : ["TensorFlow", "keras", "NumPy", "pandas", "NLTK", "spaCy", "Django", "scikit-learn"],
+            "databases" : ["MySQL", "MongoDB"]
+        }
+        
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
