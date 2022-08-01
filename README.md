@@ -8,8 +8,8 @@ class NLPEngineer:
         self.name = "Bimal Timilsina"
         self.pronouns = "he/him"
         self.language_spoken = ["ne_NP", "en_US", "hi_IN"]
-        self.current_focus: "Learning Speech Processing",
-        self.fun_fact: "There are two ways to write error-free programs; only the third one works."
+        self.current_focus = "Learning Speech Processing",
+        self.fun_fact = "There are two ways to write error-free programs; only the third one works."
     
     def get_current_workplace(self):
         return {
