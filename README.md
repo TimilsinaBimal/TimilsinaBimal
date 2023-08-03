@@ -34,7 +34,7 @@ class MLEngineer:
         print("Thanks for dropping by, hope you find some of my work interesting.")
         
 
-me = NLPEngineer()
+me = MLEngineer()
 me.say_hi()
 ```
 <p align="center">
