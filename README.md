@@ -13,18 +13,17 @@ class MLEngineer:
     
     def get_current_workplace(self):
         return {
-            "company": ""
-            "position": ""
+            "company": "Otermans Institute"
+            "position": "Machine Learning Researcher"
         }
      
     def get_skills(self):
         return {
             "languages" : ["Python", "JavaScript"],
-            "libraries and frameworks" : [
+            "libraries and frameworks" : ["Transformers", "Pytorch",
                                         "TensorFlow", "Scikit-Learn", "Keras",
                                         "NumPy", "Pandas", "Matplotlib", 
-                                        "NLTK", "SpaCy", "Django",
-                                        "Pytorch",
+                                        "NLTK", "SpaCy", "Django", "FastAPI"
                                         ],
             "databases" : ["MySQL", "MongoDB"]
         }
