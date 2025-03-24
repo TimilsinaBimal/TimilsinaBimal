@@ -13,8 +13,8 @@ class MLEngineer:
     
     def get_current_workplace(self):
         return {
-            "company": "Otermans Institute"
-            "position": "Machine Learning Researcher"
+            "company": "Insyde AI"
+            "position": "Senior Machine Learning Researcher"
         }
      
     def get_skills(self):
