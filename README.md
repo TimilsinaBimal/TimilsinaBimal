@@ -8,7 +8,7 @@ class MLEngineer:
         self.name = "Bimal Timilsina"
         self.pronouns = "he/him"
         self.language_spoken = ["ne_NP", "en_US", "hi_IN"]
-        self.current_focus = "Large Language Models",
+        self.current_focus = "Alignment, Interpretability and LLM Architectures",
         self.fun_fact = "There are two ways to write error-free programs; only the third one works."
     
     def get_current_workplace(self):
