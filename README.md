@@ -8,13 +8,12 @@ class MLEngineer:
         self.name = "Bimal Timilsina"
         self.pronouns = "he/him"
         self.language_spoken = ["ne_NP", "en_US", "hi_IN"]
-        self.current_focus = "Alignment, Interpretability and LLM Architectures",
-        self.fun_fact = "There are two ways to write error-free programs; only the third one works."
+        self.current_focus = "Robust, Aligned, and Secure Multimodal LLM Systems",
     
     def get_current_workplace(self):
         return {
             "company": "Insyde AI"
-            "position": "Senior Machine Learning Researcher"
+            "position": "Senior Machine Learning Engineer"
         }
      
     def get_skills(self):
