@@ -6,26 +6,8 @@
 class MLEngineer:
     def __init__(self):
         self.name = "Bimal Timilsina"
-        self.pronouns = "he/him"
         self.language_spoken = ["ne_NP", "en_US", "hi_IN"]
         self.current_focus = "Reinforcement learning",
-    
-    def get_current_workplace(self):
-        return {
-            "company": "Insyde AI"
-            "position": "Machine Learning Engineer"
-        }
-     
-    def get_skills(self):
-        return {
-            "languages" : ["Python", "JavaScript"],
-            "libraries and frameworks" : ["Transformers", "Pytorch",
-                                        "TensorFlow", "Scikit-Learn", "Keras",
-                                        "NumPy", "Pandas", "Matplotlib", 
-                                        "NLTK", "SpaCy", "Django", "FastAPI"
-                                        ],
-            "databases" : ["MySQL", "MongoDB"]
-        }
         
 
     def say_hi(self):
